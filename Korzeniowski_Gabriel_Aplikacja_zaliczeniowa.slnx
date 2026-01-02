@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Korzeniowski_Gabriel_Aplikacja_zaliczeniowa/Korzeniowski_Gabriel_Aplikacja_zaliczeniowa.vcxproj" />
+</Solution>
